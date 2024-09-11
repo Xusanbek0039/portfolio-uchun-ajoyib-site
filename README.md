@@ -1,2 +1,2 @@
 # Suyunov Husan Shavkat o'g'li 
-husanbek-coder.uz
+https://husanbek-coder.uz
