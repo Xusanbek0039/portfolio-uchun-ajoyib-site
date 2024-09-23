@@ -53,7 +53,9 @@ nav a {
 .menu {
     display: none;
 }
-
+a{
+    text-decoration: none;
+}
 /*NAVBAR uchun css*/
 
 section {
